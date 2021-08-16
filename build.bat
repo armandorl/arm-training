@@ -1,0 +1,1 @@
+docker build --no-cache --tag "arm-training-image:latest" .

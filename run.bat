@@ -1,0 +1,1 @@
+docker run -it --rm -v D:\Programming\Yocto\yocto\output:/home/arm-training/yocto/output arm-training-image:latest
