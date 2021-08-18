@@ -1,9 +1,3 @@
-[submodule "sources/meta-raspberrypi"]
-	path = sources/meta-raspberrypi
-	url = https://git.yoctoproject.org/git/meta-raspberrypi
 [submodule "sources/poky"]
 	path = sources/poky
 	url = git://git.yoctoproject.org/poky
-[submodule "sources/meta-openembedded"]
-	path = sources/meta-openembedded
-	url = https://github.com/openembedded/meta-openembedded.git
